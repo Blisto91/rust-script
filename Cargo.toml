@@ -19,6 +19,9 @@ exclude = [
     "target"
 ]
 
+[build-dependencies]
+cli-setup = "0.2"
+
 [dependencies]
 clap = "3.0.0-rc.7"
 dirs-next = "2"
